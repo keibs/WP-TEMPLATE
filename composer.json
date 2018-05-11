@@ -8,6 +8,7 @@
 
     "require": {
         "wpackagist-plugin/akismet": "3.1.1",
-        "wpackagist-theme/evolve": "*"
+        "wpackagist-theme/evolve": "*",
+        "wpackagist-plugin/ssl-insecure-content-fixer":">=2.6.0",
     }
 }

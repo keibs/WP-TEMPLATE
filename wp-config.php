@@ -47,6 +47,9 @@ define('WP_SITEURL', $_SERVER['SITE_URL']);
 /** Allow server to send Email **/
 define('MG_DEBUG_SMTP', true );
 
+/** Force HTTPS logins or Force HTTPS logins and HTTPS administration **/
+define('FORCE_SSL_ADMIN', true);
+
 /**#@+
  * Authentication Unique Keys and Salts.
  * 
